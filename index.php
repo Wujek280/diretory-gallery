@@ -22,6 +22,7 @@
 	#app{
 		margin: auto auto;
 		margin-top:50px !important;
+		display: block;
 	}
 	.dataTables_paginate{
 		position: fixed;
